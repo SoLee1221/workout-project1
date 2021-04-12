@@ -9,18 +9,22 @@ h1 {
     letter-spacing: 4px;
 }
 
-#menu,
-#logo {
-    line-height: 75px;
-}
-
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 30px;
+    margin-right: 40px;
 }
 
 #menu a {
     text-decoration: none;
-    color: inherit;
+    color: red;
+}
+
+#menu a:hover {
+    color: black;
+    border-bottom: 1px solid red;
+}
+
+.active {
+    border-bottom: 1px solid black;
 }
