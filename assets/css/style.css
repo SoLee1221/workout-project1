@@ -38,30 +38,37 @@ h1 {
     height: 500px;
     width: 100%;
     background: url('../images/Morning-Workout.jpg') no-repeat center center;
-    /* Article */
+}
 
-    .workout-benefit {
-        color: orange;
-    }
 
-    /* footer */
+/* Article */
 
-    footer {
-        height: 100px;
-    }
+.workout-benefit {
+    color: black;
+}
 
-    .social-media {
-        text-align: center;
-    }
+.workout-benefit {
+    background-color: red;
+}
 
-    .social-media li {
-        font-size: 120%;
-        display: inline;
-        color: black;
-        margin: 3%;
+/* footer */
 
-    }
+footer {
+    height: 0;
+}
 
-    .social-media i {
-        color: blue;
-    }
+.social-media {
+    text-align: center;
+}
+
+.social-media li {
+    font-size: 120%;
+    display: inline;
+    color: black;
+    margin: 3%;
+
+}
+
+.social-media i {
+    color: blue;
+}
