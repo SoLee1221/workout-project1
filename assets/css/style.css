@@ -5,6 +5,8 @@ h1 {
     border-bottom: none;
 }
 
+/* menu */
+
 #menu {
     font-size: 100%;
     letter-spacing: 4px;
@@ -29,3 +31,37 @@ h1 {
 .active {
     border-bottom: 1px solid black;
 }
+
+/* images */
+
+.dumbell {
+    height: 500px;
+    width: 100%;
+    background: url('../images/Morning-Workout.jpg') no-repeat center center;
+    /* Article */
+
+    .workout-benefit {
+        color: orange;
+    }
+
+    /* footer */
+
+    footer {
+        height: 100px;
+    }
+
+    .social-media {
+        text-align: center;
+    }
+
+    .social-media li {
+        font-size: 120%;
+        display: inline;
+        color: black;
+        margin: 3%;
+
+    }
+
+    .social-media i {
+        color: blue;
+    }
