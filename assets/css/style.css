@@ -44,11 +44,19 @@ h1 {
 /* Article */
 
 .workout-benefit {
-    color: black;
+    color: white;
 }
 
 .workout-benefit {
     background-color: red;
+}
+
+.s-workout {
+    color: white;
+}
+
+.s-workout {
+    background-color: blue;
 }
 
 /* footer */
