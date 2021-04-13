@@ -9,25 +9,23 @@ h1 {
     color: black;
     letter-spacing: 2px;
     text-align: center;
-    border-bottom: none;
     font-weight: 700;
 }
 
 /* menu */
 
+
 #menu {
     font-size: 100%;
     letter-spacing: 4px;
     float: right;
-    display: block;
 }
 
 #menu li {
-    float: right;
     list-style-type: none;
     margin-right: 40px;
     font-weight: bold;
-
+    float: right;
 }
 
 #menu a {
@@ -47,7 +45,7 @@ h1 {
 /* images */
 
 .dumbell {
-    height: 500px;
+    height: 600px;
     max-width: 100%;
     background: url('../images/Morning-Workout.jpg') no-repeat center;
 }
@@ -61,10 +59,10 @@ h1 {
 }
 
 .hero-image {
+    height: 600px;
     background-image: url('../images/background-workout.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    display: relative;
     background-position: center;
 }
 
@@ -82,6 +80,16 @@ h1 {
 
 .box3 {
     float: right;
+}
+
+div h2 {
+    color: rgba(247, 8, 8, 0.5);
+    font-size: 30px;
+}
+
+div p {
+    font-size: 20px;
+    color: rgb(227, 154, 91)
 }
 
 
