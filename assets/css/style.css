@@ -1,3 +1,5 @@
+/* background */
+
 .backg-color {
     background-image: url('../images/background-workout.jpg');
     background-size: cover;
@@ -6,9 +8,10 @@
 
 h1 {
     color: black;
-    letter-spacing: 4px;
+    letter-spacing: 2px;
     text-align: center;
     border-bottom: none;
+    font-weight: 700;
 }
 
 /* menu */
@@ -22,20 +25,22 @@ h1 {
     float: right;
     list-style-type: none;
     margin-right: 40px;
+    font-weight: bold;
+
 }
 
 #menu a {
     text-decoration: none;
-    color: rgb(255, 0, 0);
+    color: rgb(105, 105, 105);
 }
 
 #menu a:hover {
-    color: rgb(255, 255, 255);
-    border-bottom: 1px solid rgb(255, 0, 0);
+    color: rgb(255, 0, 0);
+    border-bottom: 1px solid rgb(10, 0, 0);
 }
 
 .active {
-    border-bottom: 1px solid rgb(255, 251, 0);
+    border-bottom: 2px solid rgb(10, 0, 0);
 }
 
 /* images */
@@ -43,26 +48,30 @@ h1 {
 .dumbell {
     height: 500px;
     max-width: 100%;
-    background: url('../images/Morning-Workout.jpg') no-repeat center center;
+    background: url('../images/Morning-Workout.jpg') no-repeat center;
 }
 
 
 /* Article */
 
 .workout-benefit {
-    color: white;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: 500;
 }
 
 .workout-benefit {
-    background-color: red;
+    background-color: rgb(224, 215, 215, 0.3);
 }
 
 .s-workout {
-    color: white;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: 500;
 }
 
 .s-workout {
-    background-color: blue;
+    background-color: rgb(224, 215, 215, 0.3);
 }
 
 /* footer */
@@ -79,10 +88,19 @@ footer {
     font-size: 120%;
     display: inline;
     color: black;
-    margin: 3%;
+    margin: 4%;
+    padding: auto;
+    font-weight: bold;
+    display: relative;
+    letter-spacing: 1px;
 
 }
 
+.social-media a:hover {
+    color: rgb(0, 0, 0);
+    border-bottom: 1px solid rgb(10, 0, 0);
+}
+
 .social-media i {
-    color: blue;
+    color: rgb(255, 0, 0);
 }
