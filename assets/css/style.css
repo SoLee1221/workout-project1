@@ -27,11 +27,11 @@ h1 {
 
 h2 {
     font-family: Zen Dots, sans-serif;
-    color: rgba(247, 8, 8, 0.5);
+    color: rgb(255, 115, 0, 0.7);
     font-size: 30px;
     font-weight: bold;
     border-bottom: solid;
-    border-color: rgb(10, 0, 0);
+    border-color: rgb(216, 17, 17);
 }
 
 p {
@@ -104,18 +104,18 @@ span {
 
 /* section 2 index.html div */
 
-.box {
+#box-center {
     height: 600px;
     width: 33%;
     display: inline-block;
 
 }
 
-.box2 {
+.box-left {
     float: left;
 }
 
-.box3 {
+.box-right {
     float: right;
 }
 
@@ -148,3 +148,43 @@ footer {
     color: rgb(255, 0, 0);
     padding: 1%;
 }
+
+@media screen and (max-width: 1200px) {
+
+    #menu {
+        float: left;
+    }
+
+    #logo {
+        padding: 30px 0;
+        margin: 0;
+    }
+
+    #box-center {
+        width: 65%;
+        height: 600px;
+        margin: 0 auto;
+    }
+
+
+
+
+
+    @media screen and (max-width: 950px) {
+
+        #menu {
+            clear: left;
+            float: left;
+            margin-right: 30px;
+            margin-bottom: 20px;
+            line-height: 25px;
+        }
+
+        #box-center {
+            width: 50%;
+            height: 600px;
+            margin: 0 auto;
+        }
+
+
+    }
