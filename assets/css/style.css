@@ -30,19 +30,25 @@ h2 {
     color: rgba(247, 8, 8, 0.5);
     font-size: 30px;
     font-weight: bold;
+    border-bottom: solid;
+    border-color: rgb(10, 0, 0);
 }
 
 p {
     font-family: Poppins, sans-serif;
     color: #27002E;
     font-size: 25px;
+    padding: 5px;
+}
+
+span {
+    color: rgb(255, 0, 0);
 }
 
 /* menu */
 
-
 #menu {
-    font-size: 100%;
+    font-size: 120%;
     letter-spacing: 4px;
 }
 
@@ -77,9 +83,9 @@ p {
 }
 
 .happy-work {
-    height: 500px;
     background: url('../images/happy-people-workout.jpg') no-repeat center center;
-    max-width: 30%;
+    max-width: 100%;
+    margin: 0.5em;
 }
 
 #hero-out {
@@ -99,9 +105,10 @@ p {
 /* section 2 index.html div */
 
 .box {
-    height: 500px;
+    height: 600px;
     width: 33%;
     display: inline-block;
+
 }
 
 .box2 {
@@ -115,16 +122,21 @@ p {
 /* footer */
 
 footer {
-    height: 150px;
+    height: 100px
 }
 
 .social-media {
     text-align: center;
+    font-family: Zen Dots, sans-serif;
+    margin: 8%;
 }
 
 .social-media>li {
     display: inline;
     font-size: 30px;
+    padding: 1%;
+    margin: 2%;
+    position: relative;
 }
 
 .social-media a:hover {
@@ -132,7 +144,7 @@ footer {
 }
 
 .social-media i {
+    font-size: 25px;
     color: rgb(255, 0, 0);
     padding: 1%;
-    margin: 3%;
 }
