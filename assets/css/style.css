@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Zen+Dots&display=swap');
 /* header */
 
 * {
@@ -18,9 +19,23 @@ body {
 
 
 h1 {
+    font-family: Zen Dots, sans-serif;
     color: black;
     letter-spacing: 2px;
     font-weight: 700;
+}
+
+h2 {
+    font-family: Zen Dots, sans-serif;
+    color: rgba(247, 8, 8, 0.5);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+p {
+    font-family: Poppins, sans-serif;
+    color: #27002E;
+    font-size: 25px;
 }
 
 /* menu */
@@ -56,16 +71,14 @@ h1 {
 /* images */
 
 .dumbell {
-    height: 600px;
+    height: 500px;
     max-width: 100%;
-    background: url('../images/Morning-Workout.jpg') no-repeat center;
+    background: url('../images/Morning-Workout.jpg') no-repeat;
 }
 
 .happy-work {
-    height: 400px;
+    height: 500px;
     background: url('../images/happy-people-workout.jpg') no-repeat center center;
-    margin-left: auto;
-    margin-right: auto;
     max-width: 30%;
 }
 
@@ -83,7 +96,7 @@ h1 {
 
 }
 
-/* section div */
+/* section 2 index.html div */
 
 .box {
     height: 500px;
@@ -99,43 +112,27 @@ h1 {
     float: right;
 }
 
-h2 {
-    color: rgba(247, 8, 8, 0.5);
-    font-size: 30px;
-}
-
-p {
-    font-size: 20px;
-    color: rgb(227, 154, 91)
-}
-
-
 /* footer */
 
 footer {
-    height: 5px;
+    height: 150px;
 }
 
 .social-media {
     text-align: center;
 }
 
-.social-media li {
-    font-size: 120%;
+.social-media>li {
     display: inline;
-    color: rgb(20, 20, 224);
-    margin: 4%;
-    padding: 50px;
-    font-weight: bold;
-    display: relative;
-    letter-spacing: 1px;
+    font-size: 30px;
 }
 
 .social-media a:hover {
     color: rgb(255, 119, 0);
-    border-bottom: 1px solid rgb(10, 0, 0);
 }
 
 .social-media i {
     color: rgb(255, 0, 0);
+    padding: 1%;
+    margin: 3%;
 }
