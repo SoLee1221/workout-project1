@@ -165,26 +165,24 @@ footer {
         height: 600px;
         margin: 0 auto;
     }
+}
 
 
 
 
+@media screen and (max-width: 950px) {
 
-    @media screen and (max-width: 950px) {
-
-        #menu {
-            clear: left;
-            float: left;
-            margin-right: 30px;
-            margin-bottom: 20px;
-            line-height: 25px;
-        }
-
-        #box-center {
-            width: 50%;
-            height: 600px;
-            margin: 0 auto;
-        }
-
-
+    #menu {
+        clear: left;
+        float: left;
+        margin-right: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
     }
+
+    #box-center {
+        width: 50%;
+        height: 600px;
+        margin: 0 auto;
+    }
+}
