@@ -1,14 +1,25 @@
 /* header */
 
-.header-page1 {
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+
+body {
     background-color: rgb(255, 238, 0, 0.3);
+}
+
+#logo {
+    background-color: rgb(255, 238, 0, 0.3);
+    float: left;
 }
 
 
 h1 {
     color: black;
     letter-spacing: 2px;
-    text-align: center;
     font-weight: 700;
 }
 
@@ -18,14 +29,14 @@ h1 {
 #menu {
     font-size: 100%;
     letter-spacing: 4px;
-    float: right;
 }
 
 #menu li {
     list-style-type: none;
-    margin-right: 40px;
+    margin-right: 50px;
     font-weight: bold;
     float: right;
+    margin-top: 10px;
 }
 
 #menu a {
@@ -58,12 +69,18 @@ h1 {
     max-width: 30%;
 }
 
-.hero-image {
+#hero-out {
     height: 600px;
-    background-image: url('../images/background-workout.jpg');
+    width: 100%;
+    overflow: hidden;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/background-workout.jpg') no-repeat center;
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+
 }
 
 /* section div */
@@ -82,12 +99,12 @@ h1 {
     float: right;
 }
 
-div h2 {
+h2 {
     color: rgba(247, 8, 8, 0.5);
     font-size: 30px;
 }
 
-div p {
+p {
     font-size: 20px;
     color: rgb(227, 154, 91)
 }
@@ -112,7 +129,6 @@ footer {
     font-weight: bold;
     display: relative;
     letter-spacing: 1px;
-
 }
 
 .social-media a:hover {
