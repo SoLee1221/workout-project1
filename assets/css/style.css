@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
     border: none;
+    box-sizing: border-box;
 }
 
 
@@ -76,17 +77,6 @@ span {
 
 /* images */
 
-.dumbell {
-    height: 500px;
-    max-width: 100%;
-    background: url('../images/Morning-Workout.jpg') no-repeat;
-}
-
-.happy-work {
-    background: url('../images/happy-people-workout.jpg') no-repeat center center;
-    max-width: 100%;
-    margin: 0.5em;
-}
 
 #hero-out {
     height: 600px;
@@ -108,10 +98,10 @@ span {
     clear: both;
 }
 
-.box-center {
+.box-main {
     width: 33%;
     display: inline-block;
-
+    padding: 1em;
 }
 
 .box-left {
@@ -122,11 +112,12 @@ span {
     float: right;
 }
 
+.margin-bottom {
+    margin-bottom: 1em;
+}
+
 /* footer */
 
-footer {
-    height: 100px
-}
 
 .social-media {
     text-align: center;
@@ -154,8 +145,11 @@ footer {
 
 @media screen and (max-width: 1200px) {
 
+
+
     #menu {
         float: left;
+        clear: left;
     }
 
     #logo {
@@ -163,18 +157,22 @@ footer {
         margin: 0;
     }
 
-    .box-center {
-        width: 65%;
-        height: auto;
+    .box-main {
+        width: 100%;
         margin: 0 auto;
-        float: clear;
     }
+
+    .social-media li {
+        font-size: 20px;
+    }
+
 }
 
 
-
+/******************/
 
 @media screen and (max-width: 950px) {
+
 
     #menu {
         clear: left;
@@ -182,25 +180,22 @@ footer {
         margin-right: 30px;
         margin-bottom: 20px;
         line-height: 25px;
+        padding: 1%;
     }
 
-    .box-center {
+    .box-main {
         width: 100%;
         margin: 0 auto;
         float: none;
         height: auto;
+        padding: 1% auto;
+
     }
 
     .box-right {
         float: none;
     }
 
-    .happy-work {
-        background: url('../images/happy-people-workout.jpg') no-repeat center center;
-        background-size: cover;
-        max-width: 100%;
-        float: left;
-    }
 
     .social-media li {
         font-size: 1em;
@@ -210,13 +205,6 @@ footer {
     .social-media i {
         font-size: 1.2em;
         color: rgb(255, 0, 0);
-    }
-
-    .dumbell {
-        background: url('../images/Morning-Workout.jpg') no-repeat center center;
-        background-size: cover;
-        max-width: 100%;
-        height: 400px;
     }
 
     .social-media {
