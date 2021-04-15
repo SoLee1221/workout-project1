@@ -104,8 +104,11 @@ span {
 
 /* section 2 index.html div */
 
-#box-center {
-    height: 600px;
+.clear {
+    clear: both;
+}
+
+.box-center {
     width: 33%;
     display: inline-block;
 
@@ -160,10 +163,11 @@ footer {
         margin: 0;
     }
 
-    #box-center {
+    .box-center {
         width: 65%;
-        height: 600px;
+        height: auto;
         margin: 0 auto;
+        float: clear;
     }
 }
 
@@ -180,9 +184,42 @@ footer {
         line-height: 25px;
     }
 
-    #box-center {
-        width: 50%;
-        height: 600px;
+    .box-center {
+        width: 100%;
+        margin: 0 auto;
+        float: none;
+        height: auto;
+    }
+
+    .box-right {
+        float: none;
+    }
+
+    .happy-work {
+        background: url('../images/happy-people-workout.jpg') no-repeat center center;
+        background-size: cover;
+        max-width: 100%;
+        float: left;
+    }
+
+    .social-media li {
+        font-size: 1em;
+        text-align: center;
+    }
+
+    .social-media i {
+        font-size: 1.2em;
+        color: rgb(255, 0, 0);
+    }
+
+    .dumbell {
+        background: url('../images/Morning-Workout.jpg') no-repeat center center;
+        background-size: cover;
+        max-width: 100%;
+        height: 400px;
+    }
+
+    .social-media {
         margin: 0 auto;
     }
 }
