@@ -58,6 +58,7 @@ span {
     float: right;
     margin-top: 5px;
     font-weight: bolder;
+    background-color: rgba(68, 221, 221, 0.1);
 }
 
 #menu a {
