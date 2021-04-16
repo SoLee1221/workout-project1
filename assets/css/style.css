@@ -143,6 +143,10 @@ span {
     padding: 1%;
 }
 
+#social-background {
+    background-color: rgb(129, 121, 240, 0.2);
+}
+
 @media screen and (max-width: 1200px) {
 
 
