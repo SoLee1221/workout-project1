@@ -265,7 +265,6 @@ span {
 }
 
 .box3-benefit {
-    height: 50px;
     margin-left: 10px;
     width: 40%;
     float: left;
@@ -276,4 +275,28 @@ span {
     margin-left: 200px;
     width: 40%;
     display: inline-block;
+}
+
+/*************** display*/
+
+@media screen and (max-width: 1200px) {
+
+    .box1-benefit {
+        height: 50%;
+    }
+
+    .box2-benefit {
+        float: right;
+        clear: right;
+    }
+
+    .box3-benefit {
+        height: 30%;
+    }
+
+    .box4-benefit {
+        height: 30%;
+    }
+
+
 }
