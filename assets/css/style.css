@@ -244,7 +244,38 @@ span {
 
 }
 
-.heading-benefits {
+.heading-benefit {
     text-align: center;
     border: none;
+}
+
+.box1-benefit {
+    height: 50px;
+    position: top;
+    left: 10px;
+    width: 40%;
+    display: inline-block;
+}
+
+.box2-benefit {
+    height: 50px;
+    position: block;
+    left: 10px;
+    width: 40%;
+    display: inline-block;
+}
+
+.box3-benefit {
+    height: 50px;
+    position: relative;
+    left: 10px;
+    width: 40%;
+    display: inline-block;
+}
+
+.box4-benefit {
+    height: 50px;
+    left: 10px;
+    width: 40%;
+    display: relaitve;
 }
