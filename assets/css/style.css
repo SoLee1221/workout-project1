@@ -30,20 +30,19 @@ h2 {
     color: rgb(255, 115, 0, 0.7);
     font-size: 30px;
     font-weight: bold;
-    border-bottom: solid;
-    border-color: rgb(216, 17, 17);
+    text-decoration: underline;
 }
 
 h3 {
     font-family: Zen Dots, sans-serif;
-    color: rgb(255, 115, 0, 0.7);
+    color: rgb(0, 140, 255);
     font-size: 25px;
-    border-color: rgb(10, 0, 0);
+    text-decoration: underline solid;
 }
 
 p {
     font-family: Poppins, sans-serif;
-    color: #27002E;
+    color: #5f0303;
     font-size: 20px;
     padding: 5px;
 }
@@ -247,35 +246,34 @@ span {
 .heading-benefit {
     text-align: center;
     border: none;
+    color: rgb(216, 17, 17);
+    text-decoration: underline;
 }
 
 .box1-benefit {
     height: 50px;
-    position: top;
-    left: 10px;
+    margin-left: 10px;
     width: 40%;
-    display: inline-block;
+    float: left;
 }
 
 .box2-benefit {
     height: 50px;
-    position: block;
-    left: 10px;
+    margin-left: 200px;
     width: 40%;
     display: inline-block;
 }
 
 .box3-benefit {
     height: 50px;
-    position: relative;
-    left: 10px;
+    margin-left: 10px;
     width: 40%;
-    display: inline-block;
+    float: left;
 }
 
 .box4-benefit {
     height: 50px;
-    left: 10px;
+    margin-left: 200px;
     width: 40%;
-    display: relaitve;
+    display: inline-block;
 }
