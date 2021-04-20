@@ -225,6 +225,7 @@ span {
     .social-media {
         margin: 0 auto;
     }
+
 }
 
 /* benefits of workout page*/
@@ -243,60 +244,13 @@ span {
 
 }
 
+.container {
+    height: 600px;
+}
+
 .heading-benefit {
     text-align: center;
     border: none;
     color: rgb(216, 17, 17);
     text-decoration: underline;
-}
-
-.box1-benefit {
-    height: 50px;
-    margin-left: 10px;
-    width: 40%;
-    float: left;
-}
-
-.box2-benefit {
-    height: 50px;
-    margin-left: 200px;
-    width: 40%;
-    display: inline-block;
-}
-
-.box3-benefit {
-    margin-left: 10px;
-    width: 40%;
-    float: left;
-}
-
-.box4-benefit {
-    height: 50px;
-    margin-left: 200px;
-    width: 40%;
-    display: inline-block;
-}
-
-/*************** display*/
-
-@media screen and (max-width: 1200px) {
-
-    .box1-benefit {
-        height: 50%;
-    }
-
-    .box2-benefit {
-        float: right;
-        clear: right;
-    }
-
-    .box3-benefit {
-        height: 30%;
-    }
-
-    .box4-benefit {
-        height: 30%;
-    }
-
-
 }
