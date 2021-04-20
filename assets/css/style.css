@@ -254,3 +254,9 @@ span {
     color: rgb(216, 17, 17);
     text-decoration: underline;
 }
+
+.box-main i {
+    font-size: 25px;
+    color: red;
+    padding: 1%;
+}
