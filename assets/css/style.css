@@ -231,13 +231,13 @@ span {
 /* benefits of workout page*/
 
 #hero-out-benefit {
-    height: 500px;
+    height: 600px;
     width: 100%;
     overflow: hidden;
 }
 
 #hero-image-benefit {
-    height: 500px;
+    height: 600px;
     width: 100%;
     background: url('../images/skipping-workout.jpg') no-repeat center center;
     background-size: cover;
@@ -264,14 +264,14 @@ span {
 /***workout**/
 
 #hero-workout {
-    height: 500px;
+    height: 600px;
     width: 100%;
-    background: url(../images/5-day-wrokout.jpg) no-repeat center center;
+    background: url(../images/5-people-workout.jpg) no-repeat center;
     background-size: cover;
 }
 
 #hero-workout-outer {
-    height: 500px;
+    height: 600px;
     width: 100%;
     overflow: hidden;
 }
