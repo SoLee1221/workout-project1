@@ -291,7 +291,8 @@ span {
 }
 
 .list-style {
-    color: rgb(151, 8, 8);
-    font-size: large;
+    list-style-type: square;
+    color: rgb(255, 7, 7);
+    font-size: 20px;
     font-weight: 700;
 }
