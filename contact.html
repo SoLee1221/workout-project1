@@ -17,7 +17,7 @@
     <header>
         <div id="div-menu">
             <a href="contact.html">
-                <h1><i class="fas fa-dumbbell"></i> Contact <i class="fas fa-dumbbell"></i></h1>
+                <h1 id="logo"><i class="fas fa-dumbbell"></i> Contact <i class="fas fa-dumbbell"></i></h1>
             </a>
             <nav>
                 <ul id="menu">
@@ -38,15 +38,15 @@
             </nav>
         </div>
     </header>
-    <section class="heading-benefit">
+    <section class="heading-benefit contact-out">
 
         <h2>Contact us for more information and joining into our 30 day programme</h2>
 
     </section>
-    <section class="form-section">
+    <section class=" form-section">
         <form class="sign-up" method="POST">
             <div class="container">
-                <h3>Sign up to our 30 day programme!</h3>
+                <h3 class="heading-workout">Sign up to our 30 day programme!</h3>
                 <label for="fname">First Name</label>
                 <input class="text-input" id="fname" name="first_name" type="text" required>
                 <br>
@@ -58,14 +58,13 @@
                 <br>
 
                 <label for="age">Age</label>
-                <select id="age" name="Age">
+                <select class="form-input" id="age" name="Age">
                     <option value="18-24">18-24</option>
                     <option value="25-29">25-29</option>
                     <option value="30-35">30-35</option>
                     <option value="36-40">36-40</option>
                     <option value="40+">40+</option>
                 </select>
-                <br>
 
                 <h4>Gender</h4>
                 <input type="radio" id="male" name="gender" value="male">
@@ -74,7 +73,6 @@
                 <label for="female">Female</label>
                 <input type="radio" id="other" name="gender" value="other" required>
                 <label for="other">Other</label>
-                <br>
 
                 <h4>How many days would you workout?</h4>
                 <label for="days">Days</label>
@@ -86,37 +84,38 @@
 
                 <h4>Feedback</h4>
                 <textarea name="message"
-                    style="width:200px; height:200px;">We would love to hear your feedback.</textarea>
+                    style="width:350px; height:100px;">We would love to hear your feedback.</textarea>
 
-                <br>
                 <input class="submit-button" type="submit" value="Submit">
-                <br>
                 <input class="reset-button" type="reset">
             </div>
         </form>
     </section>
 </body>
 <footer>
-    <ul class="social-media">
-        <li>
-            <a href="https://facebook.com" target="_blank" rel="noopener"
-                aria-label="Visit our Facebook page (opens in a new tab)">Facebook <i class="fab fa-facebook"></i></a>
-        </li>
-        <li>
-            <a href="https://twitter.com" target="_blank" rel="noopener"
-                aria-label="Visit our Twitter page (opens in a new tab)">Twitter <i
-                    class="fab fa-twitter-square"></i></a>
-        </li>
-        <li>
-            <a href="https://youtube.com" target="_blank" rel="noopener"
-                aria-label="Visit our Youtube page (opens in a new tab)">Youtube <i class="fab fa-youtube"></i></a>
-        </li>
-        <li>
-            <a href="https://instagram.com" target="_blank" rel="noopener"
-                aria-label="Visit our Instagram page (opens in a new tab)">Instagram <i
-                    class="fab fa-instagram-square"></i></a>
-        </li>
-    </ul>
+    <div class="social-background">
+        <ul class="social-media">
+            <li>
+                <a href="https://facebook.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Facebook page (opens in a new tab)">Facebook <i
+                        class="fab fa-facebook"></i></a>
+            </li>
+            <li>
+                <a href="https://twitter.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Twitter page (opens in a new tab)">Twitter <i
+                        class="fab fa-twitter-square"></i></a>
+            </li>
+            <li>
+                <a href="https://youtube.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Youtube page (opens in a new tab)">Youtube <i class="fab fa-youtube"></i></a>
+            </li>
+            <li>
+                <a href="https://instagram.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Instagram page (opens in a new tab)">Instagram <i
+                        class="fab fa-instagram-square"></i></a>
+            </li>
+        </ul>
+    </div>
 </footer>
 <script src="https://kit.fontawesome.com/109f718d87.js" crossorigin="anonymous"></script>
 

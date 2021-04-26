@@ -299,17 +299,24 @@ span {
 
 /*********/
 
+.contact-out {
+    width: 100%;
+    overflow: hidden;
+}
+
 .form-section {
     clear: clear;
 }
 
 .sign-up {
     margin: 50px 10% 0 30px;
+    color: rgb(255, 0, 0);
+    font-size: 20px;
 }
 
-.sign-up>h4 {
-    color: rgb(51, 29, 247);
-
+h4 {
+    color: rgb(255, 0, 0);
+    margin: 10px;
 }
 
 .submit-button {
@@ -352,4 +359,13 @@ input[type=text],
 .reset-button:hover {
     background-color: #006efd;
     color: #ee0f0f;
+}
+
+.form-input {
+    width: 5%;
+    padding: 10px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
 }
