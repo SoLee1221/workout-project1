@@ -299,6 +299,20 @@ span {
 
 /*********/
 
+#hero-contact {
+    height: 600px;
+    width: 100%;
+    background: url(../images/hand.shake.jpg) no-repeat center 60%;
+    background-size: cover;
+}
+
+#hero-contact-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+
 .contact-out {
     width: 100%;
     overflow: hidden;
@@ -317,21 +331,22 @@ span {
 h4 {
     color: rgb(255, 0, 0);
     margin: 10px;
+    padding: 10px;
 }
 
 .submit-button {
     margin-top: 20px;
     border-radius: 2px;
-    padding: 15px 32px 15px 32px;
+    padding: 15px 20px 15px 20px;
     text-align: center;
     font-size: 100%;
     background-color: #006efd;
-    color: #000000;
-    display: block;
+    color: #ffa600;
+    display: inline-block;
 }
 
 .submit-button:hover {
-    background-color: #a73b3b;
+    background-color: #3f15da;
     color: rgb(0, 140, 255);
 }
 
@@ -348,16 +363,16 @@ input[type=text],
 .reset-button {
     margin-top: 20px;
     border-radius: 2px;
-    padding: 15px 32px 15px 32px;
+    padding: 15px 20px 15px 20px;
     text-align: center;
     font-size: 100%;
     background-color: #fd2600;
-    color: #000000;
-    display: block;
+    color: #0400ff;
+    display: inline-block;
 }
 
 .reset-button:hover {
-    background-color: #006efd;
+    background-color: #00d7fd;
     color: #ee0f0f;
 }
 

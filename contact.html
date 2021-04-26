@@ -38,27 +38,27 @@
             </nav>
         </div>
     </header>
-    <section class="heading-benefit contact-out">
-
-        <h2>Contact us for more information and joining into our 30 day programme</h2>
-
+    <section id="hero-contact-outer">
+        <div id="hero-contact" aria-label="image of 2 men shaking hands"></div>
     </section>
-    <section class=" form-section">
+    <section class="form-section heading-workout">
+        <h2 class="heading-benefit">Contact us for more information and joining into our 30 day programme</h2>
         <form class="sign-up" method="POST">
-            <div class="container">
+            <div>
                 <h3 class="heading-workout">Sign up to our 30 day programme!</h3>
                 <label for="fname">First Name</label>
-                <input class="text-input" id="fname" name="first_name" type="text" required>
+                <input class="text-input" id="fname" name="first_name" placeholder="Jim" type="text" required>
                 <br>
                 <label for="lname">Last Name</label>
-                <input class="text-input" id="lname" name="last_name" type="text" required>
+                <input class="text-input" id="lname" name="last_name" placeholder="Halpert" type="text" required>
                 <br>
                 <label for="email">Email Address</label>
-                <input class="text-input" id="email" name="email_address" type="email" required>
+                <input class="text-input" id="email" name="email_address" placeholder="jimhalpter@gmail.com"
+                    type="email" required>
                 <br>
 
                 <label for="age">Age</label>
-                <select class="form-input" id="age" name="Age">
+                <select id="age" name="Age">
                     <option value="18-24">18-24</option>
                     <option value="25-29">25-29</option>
                     <option value="30-35">30-35</option>
@@ -85,15 +85,16 @@
                 <h4>Feedback</h4>
                 <textarea name="message"
                     style="width:350px; height:100px;">We would love to hear your feedback.</textarea>
-
-                <input class="submit-button" type="submit" value="Submit">
-                <input class="reset-button" type="reset">
+                <div class="clear">
+                    <input class="submit-button" type="submit" value="Submit">
+                    <input class="reset-button" type="reset">
+                </div>
             </div>
         </form>
     </section>
 </body>
 <footer>
-    <div class="social-background">
+    <div class="social-background clear">
         <ul class="social-media">
             <li>
                 <a href="https://facebook.com" target="_blank" rel="noopener"
