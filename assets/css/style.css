@@ -296,3 +296,60 @@ span {
     font-size: 20px;
     font-weight: 700;
 }
+
+/*********/
+
+.form-section {
+    clear: clear;
+}
+
+.sign-up {
+    margin: 50px 10% 0 30px;
+}
+
+.sign-up>h4 {
+    color: rgb(51, 29, 247);
+
+}
+
+.submit-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #006efd;
+    color: #000000;
+    display: block;
+}
+
+.submit-button:hover {
+    background-color: #a73b3b;
+    color: rgb(0, 140, 255);
+}
+
+input[type=text],
+[type=email] {
+    width: 20%;
+    padding: 10px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+
+.reset-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #fd2600;
+    color: #000000;
+    display: block;
+}
+
+.reset-button:hover {
+    background-color: #006efd;
+    color: #ee0f0f;
+}
