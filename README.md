@@ -18,6 +18,26 @@ Tried to submit form without any information and wouldn't accept the form withou
 Tried to input only text into email section and website wouldn't accept unless its a genuine email with @.
 Added required fields for first name, last name and email address. (tested by trying to submit information without one of the text boxes for first name, last name and email without any information input)
 
+Deployment: 
+Github pages
+Branch master 
+
+images:
+5-people-workout.jpg google searched "workout picture"
+back-workout.jpg google searched "back exercises"
+background-workout.jpg google searched "background images for workout"
+bicep-exercise.jpg google searched "triceps exercises" click on image from tricep-image on google and in related images the bicep-excercise image appears.
+chest-workout.jpg google searched "chest exercises"
+girl-shoe-workout.jpg google searched "workout images"
+hand.shake.jpg google searched "sign up gym"
+happy-people-workout.jpg google searched "group of people working out"
+legs-exercise.jpg google searched "legs exercises"
+Morning-Workout.jpg google searched "workout"
+shoulder-workout.jpg google searched "shoulder exercises"
+skipping-workout.jpg google searched "group of people workout"
+tricep-image.jpg google searched "triceps exercises"
+
+
 
 
 
