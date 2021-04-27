@@ -1,45 +1,13 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+Shaping up, workout guide for beginners.
 
-Welcome SoLee1221,
+This website is about helping people get into working out no matter what their experience is, if their beginners or advance. This website gives information on benefits of working out not externally how you will look but internally. It also gives a workout programme for beginners to stick to as long as they like which is detailed and explained through bullet points and videos descriptively. So that if someone wanted to try out the workout they would know they aren't doing a certain excerise wrong in risk of injuring their self. This website is also to boost people's confidence in order what to do. Some people may be shy or embarrased seeking face to face advice on working out and want to learn independently alone and make their own programme and change their life style their self, through this website they can seek guidance and information on how to do that.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+This website is for younger and older adults essentially because of the information given and how easily it is structed. It could be a young adult that is seeking for information on how to workout correctly and what they need to do in order to make it happen. It also could be an older or younger adult that is looking to help improve their health to their body internally, working out prevents diseases and keeps a healthy and positive mind. There are a number of health benefits that all age groups can take advantage of when working out. Especially if a certain person is facing high blood pressure or insulin levels, their also could be overweight people seeking for advice on a weight loss workout programme or guidance. Or how working out makes them loose weight. There also can be young adults or older adults looking to tone their body with more muscle definition or increasing their body mass depending on their weight. 
 
-## Gitpod Reminders
+This website will help younger and older adults achieve their goals those goals could be weight loss, manage blood pressure, insulin levels, reduce heart disease, better mental health, skin health and muscle-strenght, all these benefits can be achieved in one go by just doing simple workouts and sticking to a programme. My project is one of the best ways to achieve this because of the basic way it is structored there is a section just for benefits of working out, which people will want to know. What is the reason they will be working out and what types of benefits they would be getting for working out. Then there is a seperate section on how to practically workout effectively with detail showing them how to execute correct workout movement for each body part with no risk to injury their self. 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+My project is about helping younger or older adults help improve on their physical and mental health. The first page is a good introduction for users that just came to visit the website with not a lot of information in their face to take in. It's more of basica information of wanting to get into workout or looking for more information getting into shape. The second page feature is information of benefits of working out with videos directly below the information for users to interact with the videos to click on to gain additional detailed information for each health benefit they are looking information for. My 3rd page feature is the same as page 2 with information on how to workout with also included images for users to see each body part of the muscle being worked out effectively with also given video information and tutorial on how to execute properly with little to no risk. Finally my last page is contact, this is where the user input their details such as name, age, email address, and days of workout. For our business to contact them to help them with additional information and guidance or answering any of their questions.
 
-`python3 -m http.server`
 
-A blue button should appear to click: _Make Public_,
 
-Another blue button should appear to click: _Open Browser_.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
----
-
-Happy coding!
