@@ -6,7 +6,23 @@ This website is for younger and older adults essentially because of the informat
 
 This website will help younger and older adults achieve their goals those goals could be weight loss, manage blood pressure, insulin levels, reduce heart disease, better mental health, skin health and muscle-strenght, all these benefits can be achieved in one go by just doing simple workouts and sticking to a programme. My project is one of the best ways to achieve this because of the basic way it is structored there is a section just for benefits of working out, which people will want to know. What is the reason they will be working out and what types of benefits they would be getting for working out. Then there is a seperate section on how to practically workout effectively with detail showing them how to execute correct workout movement for each body part with no risk to injury their self. 
 
-My project is about helping younger or older adults help improve on their physical and mental health. The first page is a good introduction for users that just came to visit the website with not a lot of information in their face to take in. It's more of basica information of wanting to get into workout or looking for more information getting into shape. The second page feature is information of benefits of working out with videos directly below the information for users to interact with the videos to click on to gain additional detailed information for each health benefit they are looking information for. My 3rd page feature is the same as page 2 with information on how to workout with also included images for users to see each body part of the muscle being worked out effectively with also given video information and tutorial on how to execute properly with little to no risk. Finally my last page is contact, this is where the user input their details such as name, age, email address, and days of workout. For our business to contact them to help them with additional information and guidance or answering any of their questions.
+My project is about helping younger or older adults help improve on their physical and mental health. The first page is a good introduction for users that just came to visit the website with not a lot of information in their face to take in. It's more of basic information of wanting to get into workout or looking for more information getting into shape. The second page feature is information of benefits of working out with videos directly below the information for users to interact with the videos to click on to gain additional detailed information for each health benefit they are looking information for. My 3rd page feature is the same as page 2 with information on how to workout with also included images for users to see each body part of the muscle being worked out effectively with also given video information and tutorial on how to execute properly with little to no risk. Finally my last page is contact, this is where the user input their details such as name, age, email address, and days of workout. For our business to contact them to help them with additional information and guidance or answering any of their questions.
+
+Testing:
+Tested nav links throughout all webpages to see if they work correctly with no problems. 
+Tested all social media links to make sure they all open in a seperate tab with no problems or errors.
+Tested all youtube videos throughout the website to make sure no video links are broken or popping up with error messages.
+Tested all images to display correctly without any errors. 
+Tested contact page:
+Tried to submit form without any information and wouldn't accept the form without any data input. 
+Tried to input only text into email section and website wouldn't accept unless its a genuine email with @.
+Added required fields for first name, last name and email address. (tested by trying to submit information without one of the text boxes for first name, last name and email without any information input)
+
+
+
+
+
+
 
 
 
