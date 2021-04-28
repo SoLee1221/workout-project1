@@ -182,6 +182,15 @@ span {
         font-size: 20px;
     }
 
+    .image-width {
+        width: auto;
+    }
+
+    .video-width {
+        width: 60%;
+        height: 400px;
+    }
+
 }
 
 
