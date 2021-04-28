@@ -30,7 +30,7 @@ back-workout.jpg google searched "back exercises"
 background-workout.jpg google searched "background images for workout"
 bicep-exercise.jpg google searched "triceps exercises" click on image from tricep-image on google and in related images the bicep-excercise image appears.
 chest-workout.jpg google searched "chest exercises"
-girl-shoe-workout.jpg google searched "workout images"
+motivation-image jpg google searched "workout motivation"
 hand.shake.jpg google searched "sign up gym"
 happy-people-workout.jpg google searched "group of people working out"
 legs-exercise.jpg google searched "legs exercises"
