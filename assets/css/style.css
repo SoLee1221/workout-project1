@@ -103,6 +103,26 @@ span {
     height: 600px;
 }
 
+.image-h-w {
+    width: 100%;
+    height: auto;
+}
+
+.image-size {
+    height: 400px;
+    width: 100%;
+}
+
+.image-size-motivation {
+    height: 600px;
+    width: 100%;
+}
+
+.video-size {
+    height: 300px;
+    width: 100%;
+}
+
 /* section 2 index.html div */
 
 .clear {

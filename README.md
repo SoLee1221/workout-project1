@@ -1,4 +1,6 @@
-Shaping up, workout guide for beginners.
+Shaping up
+
+workout guide for beginners.
 
 This website is about helping people get into working out no matter what their experience is, if their beginners or advance. This website gives information on benefits of working out not externally how you will look but internally. It also gives a workout programme for beginners to stick to as long as they like which is detailed and explained through bullet points and videos descriptively. So that if someone wanted to try out the workout they would know they aren't doing a certain excerise wrong in risk of injuring their self. This website is also to boost people's confidence in order what to do. Some people may be shy or embarrased seeking face to face advice on working out and want to learn independently alone and make their own programme and change their life style their self, through this website they can seek guidance and information on how to do that.
 
