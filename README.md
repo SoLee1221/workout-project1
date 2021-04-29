@@ -8,7 +8,8 @@ Workout guide for beginners.
 [Target-audience](#target-audience)    
 [How website helps](#how-website-helps)    
 [Features](#features)   
-[Testing](#testing)  
+[Testing](#testing)
+[W3C validator](#w3c validator)  
 [Deployment](#deployment)  
 [Credits](#credits)  
 [Images](#images)  
@@ -43,6 +44,16 @@ Testing:
 • Tried to input only text into email section and website wouldn't accept unless its a genuine email with @.  
 • Added required fields for first name, last name and email address. (tested by trying to submit information without one of the text boxes for first name, last name and email without any information input).  
 • Tested if information, videos and images work correctly for 1200px and 950px.  
+
+## W3C validator  
+
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
 
 ## Deployment
 
