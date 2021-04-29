@@ -8,7 +8,10 @@ Workout guide for beginners.
 [Target-audience](#target-audience)    
 [How website helps](#how-website-helps)    
 [Features](#features)   
-[Testing](#testing)    
+[Testing](#testing)  
+[Deployment](#deployment)  
+[Images](#images)  
+[Youtube](#youtube)      
 
 ## Description
 
@@ -37,13 +40,12 @@ Testing:
 • Tested contact page:  
 • Tried to submit form without any information and wouldn't accept the form without any data input.   
 • Tried to input only text into email section and website wouldn't accept unless its a genuine email with @.  
-• Added required fields for first name, last name and email address. (tested by trying to submit information without one of the text boxes for first name, last name and email without any information input)  
-• tested if information, videos and images work correctly for 1200px and 950px  
-• tested homepage image changing from 1200px+ to 1200- works correctly.  
+• Added required fields for first name, last name and email address. (tested by trying to submit information without one of the text boxes for first name, last name and email without any information input).  
+• Tested if information, videos and images work correctly for 1200px and 950px.  
 
 Deployment:   
-Github pages<br/>
-Branch master   
+Github pages  
+Branch master    
 
 images:  
 5-people-workout.jpg google searched "workout picture"  
