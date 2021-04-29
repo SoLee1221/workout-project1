@@ -1,4 +1,4 @@
-<a href="index.html">Shaping up</a>
+<a href=https://solee1221.github.io/workout-project1>Shaping up</a>
 
 Workout guide for beginners.
 
