@@ -10,11 +10,11 @@
 }
 
 body {
-    background-color: rgb(255, 238, 0, 0.3);
+    background-color: rgba(255, 238, 0, 0.3);
 }
 
 #logo {
-    background-color: rgb(255, 238, 0, 0.3);
+    background-color: rgba(255, 238, 0, 0.3);
     float: left;
 }
 
@@ -28,7 +28,7 @@ h1 {
 
 h2 {
     font-family: Zen Dots, sans-serif;
-    color: rgb(228, 102, 0);
+    color: rgba(228, 102, 0);
     font-size: 30px;
     font-weight: bold;
     text-decoration: underline;
@@ -36,7 +36,7 @@ h2 {
 
 h3 {
     font-family: Zen Dots, sans-serif;
-    color: rgb(0, 140, 255);
+    color: rgba(0, 140, 255);
     font-size: 25px;
     text-decoration: underline solid;
 }
@@ -49,7 +49,7 @@ p {
 }
 
 span {
-    color: rgb(255, 0, 0);
+    color: rgba(255, 0, 0);
 }
 
 /* menu */
@@ -70,16 +70,16 @@ span {
 
 #menu a {
     text-decoration: none;
-    color: rgb(71, 68, 221);
+    color: rgba(71, 68, 221);
 }
 
 #menu a:hover {
-    color: rgb(255, 0, 0);
-    border-bottom: 1px solid rgb(10, 0, 0);
+    color: rgba(255, 0, 0);
+    border-bottom: 1px solid rgba(10, 0, 0);
 }
 
 .active {
-    border-bottom: 2px solid rgb(226, 44, 44);
+    border-bottom: 2px solid rgba(226, 44, 44);
 }
 
 .image-h-w {
@@ -121,7 +121,7 @@ span {
 }
 
 h4 {
-    color: rgb(255, 0, 0);
+    color: rgba(255, 0, 0);
     margin: 10px;
     padding: 10px;
 }
@@ -167,17 +167,17 @@ h4 {
 }
 
 .social-media a:hover {
-    color: rgb(255, 119, 0);
+    color: rgba(255, 119, 0);
 }
 
 .social-media i {
     font-size: 25px;
-    color: rgb(255, 0, 0);
+    color: rgba(255, 0, 0);
     padding: 1%;
 }
 
 .social-background {
-    background-color: rgb(255, 153, 0, 0.2);
+    background-color: rgba(255, 153, 0, 0.2);
 }
 
 /* benefits of workout page*/
@@ -203,7 +203,7 @@ h4 {
 .heading-benefit {
     text-align: center;
     border: none;
-    color: rgb(216, 17, 17);
+    color: rgba(216, 17, 17);
     text-decoration: underline;
 }
 
@@ -243,7 +243,7 @@ h4 {
 
 .list-style {
     list-style-type: none;
-    color: rgb(75, 52, 11);
+    color: rgba(75, 52, 11);
     font-size: 20px;
     font-weight: 700;
 }
@@ -275,7 +275,7 @@ h4 {
 
 .sign-up {
     margin: 50px 10% 0 30px;
-    color: rgb(255, 0, 0);
+    color: rgba(255, 0, 0);
     font-size: 20px;
 }
 
@@ -292,7 +292,7 @@ h4 {
 
 .submit-button:hover {
     background-color: #3f15da;
-    color: rgb(0, 140, 255);
+    color: rgba(0, 140, 255);
 }
 
 input[type=text],
@@ -399,7 +399,7 @@ input[type=text],
 
     .social-media i {
         font-size: 1.2em;
-        color: rgb(255, 0, 0);
+        color: rgba(255, 0, 0);
     }
 
     .social-media {
