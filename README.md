@@ -43,9 +43,13 @@ Testing:
 • Added required fields for first name, last name and email address. (tested by trying to submit information without one of the text boxes for first name, last name and email without any information input).  
 • Tested if information, videos and images work correctly for 1200px and 950px.  
 
+## Deployment
+
 Deployment:   
 Github pages  
 Branch master    
+
+## Images
 
 images:  
 5-people-workout.jpg google searched "workout picture"  
@@ -62,8 +66,10 @@ shoulder-workout.jpg google searched "shoulder exercises"
 skipping-workout.jpg google searched "group of people workout"  
 tricep-image.jpg google searched "triceps exercises"  
 
-youtube videos  
-homepage:  
+#Youtube  
+
+youtube videos    
+homepage:    
 Youtube search "workout for beginners" https://youtu.be/pRlt5zCKSAs  
 Benefits of workout page:  
 Youtube search "weight loss workout" https://youtu.be/H3jJ29oE8Zg  
@@ -72,7 +78,7 @@ Youtube search "mental health benefits of workout" https://youtu.be/GNWaWJm1A1g
 Youtube search "exercise benefits for skins" https://youtu.be/pCd7QpIW4xQ  
 Youtube search "exercise helps blood pressure" https://youtu.be/y_ZoCSmSnZE  
 Youtube search "exercises to help prevent heart disease" https://youtu.be/oDTYl7lzqjg  
-workout page:  
+workout page:    
 Youtube search "exercises for chest" https://youtu.be/lWXhih3xbVc  
 Youtube search "exercises for Biceps" https://youtu.be/mqfzsbV0lUs  
 Youtube search "exercises for back" https://youtu.be/s8taXR3mYa8  
