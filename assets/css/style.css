@@ -59,6 +59,7 @@ span {
 }
 
 #menu li {
+    font-family: Poppins, sans-serif;
     list-style-type: none;
     margin-right: 50px;
     float: right;
