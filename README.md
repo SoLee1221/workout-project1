@@ -9,7 +9,7 @@ Workout guide for beginners.
 [How website helps](#how-website-helps)    
 [Features](#features)   
 [Testing](#testing)
-[W3C validator](#w3c validator)  
+[W3C validator](#w3c-validator)  
 [Deployment](#deployment)  
 [Credits](#credits)  
 [Images](#images)  
