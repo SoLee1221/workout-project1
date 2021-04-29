@@ -106,7 +106,6 @@ span {
     clear: both;
 }
 
-
 .box-main {
     width: 33%;
     display: inline-block;
@@ -119,6 +118,12 @@ span {
 
 .box-right {
     float: right;
+}
+
+h4 {
+    color: rgb(255, 0, 0);
+    margin: 10px;
+    padding: 10px;
 }
 
 /* images */
@@ -274,12 +279,6 @@ span {
     font-size: 20px;
 }
 
-h4 {
-    color: rgb(255, 0, 0);
-    margin: 10px;
-    padding: 10px;
-}
-
 .submit-button {
     margin-top: 20px;
     border-radius: 2px;
@@ -331,8 +330,9 @@ input[type=text],
     background: #f1f1f1;
 }
 
-@media screen and (max-width: 1200px) {
+/******************/
 
+@media screen and (max-width: 1200px) {
 
 
     #menu {
@@ -365,8 +365,6 @@ input[type=text],
 
 }
 
-
-/******************/
 
 @media screen and (max-width: 950px) {
 
