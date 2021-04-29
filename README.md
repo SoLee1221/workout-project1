@@ -27,8 +27,8 @@ My project is about helping younger or older adults help improve on their physic
 ## Testing
 
 Testing:
-• Tested nav links throughout all webpages to see if they work correctly with no problems and broken links.
-• Tested all social media links to make sure they all open in a seperate tab with no problems or broken links.
+• Tested nav links throughout all webpages to see if they work correctly with no problems and broken links./n
+• Tested all social media links to make sure they all open in a seperate tab with no problems or broken links./n
 • Tested both highlight for nav links and social media links to see if they work correctly when hovering over with mouse to give better user experience.
 • Tested all youtube videos throughout the website to make sure no video links are broken or popping up with error messages.
 • Tested all images to display correctly without any errors. 
