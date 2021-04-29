@@ -4,11 +4,11 @@ Workout guide for beginners.
 
 ### Table of content  
 
-[Description] (#Description)    
-[Target-audience] (#Target-audience)    
-[How-website-helps] (#How-website-helps)    
-[Features] (#Features)   
-[Testing] (#Testing)    
+[Description] (#description)    
+[Target-audience] (#target-audience)    
+[How-website-helps] (#how-website-helps)    
+[Features] (#features)   
+[Testing] (#testing)    
 
 ## Description
 
