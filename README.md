@@ -26,55 +26,55 @@ My project is about helping younger or older adults help improve on their physic
 
 ## Testing
 
-Testing:
+Testing:  
 • Tested nav links throughout all webpages to see if they work correctly with no problems and broken links.  
-• Tested all social media links to make sure they all open in a seperate tab with no problems or broken links.\  
-• Tested both highlight for nav links and social media links to see if they work correctly when hovering over with mouse to give better user experience.
-• Tested all youtube videos throughout the website to make sure no video links are broken or popping up with error messages.
+• Tested all social media links to make sure they all open in a seperate tab with no problems or broken links.  
+• Tested both highlight for nav links and social media links to see if they work correctly when hovering over with mouse to give better user experience.  
+• Tested all youtube videos throughout the website to make sure no video links are broken or popping up with error messages.  
 • Tested all images to display correctly without any errors. 
-• Tested contact page:
-• Tried to submit form without any information and wouldn't accept the form without any data input. 
-• Tried to input only text into email section and website wouldn't accept unless its a genuine email with @.
-• Added required fields for first name, last name and email address. (tested by trying to submit information without one of the text boxes for first name, last name and email without any information input)
-• tested if information, videos and images work correctly for 1200px and 950px
-• tested homepage image changing from 1200px+ to 1200- works correctly.
+• Tested contact page:  
+• Tried to submit form without any information and wouldn't accept the form without any data input.   
+• Tried to input only text into email section and website wouldn't accept unless its a genuine email with @.  
+• Added required fields for first name, last name and email address. (tested by trying to submit information without one of the text boxes for first name, last name and email without any information input)  
+• tested if information, videos and images work correctly for 1200px and 950px  
+• tested homepage image changing from 1200px+ to 1200- works correctly.  
 
-Deployment: 
-Github pages
-Branch master 
+Deployment:   
+Github pages<br/>
+Branch master   
 
-images:
-5-people-workout.jpg google searched "workout picture"
-back-workout.jpg google searched "back exercises"
-background-workout.jpg google searched "background images for workout"
-bicep-exercise.jpg google searched "triceps exercises" click on image from tricep-image on google and in related images the bicep-excercise image appears.
-chest-workout.jpg google searched "chest exercises"
-motivation-image jpg google searched "workout motivation"
-hand.shake.jpg google searched "sign up gym"
-happy-people-workout.jpg google searched "group of people working out"
-legs-exercise.jpg google searched "legs exercises"
-Morning-Workout.jpg google searched "workout"
-shoulder-workout.jpg google searched "shoulder exercises"
-skipping-workout.jpg google searched "group of people workout"
-tricep-image.jpg google searched "triceps exercises"
+images:  
+5-people-workout.jpg google searched "workout picture"  
+back-workout.jpg google searched "back exercises"  
+background-workout.jpg google searched "background images for workout"  
+bicep-exercise.jpg google searched "triceps exercises" click on image from tricep-image on google and in related images the bicep-excercise image appears.  
+chest-workout.jpg google searched "chest exercises"  
+motivation-image jpg google searched "workout motivation"  
+hand.shake.jpg google searched "sign up gym"  
+happy-people-workout.jpg google searched "group of people working out"  
+legs-exercise.jpg google searched "legs exercises"  
+Morning-Workout.jpg google searched "workout"  
+shoulder-workout.jpg google searched "shoulder exercises"  
+skipping-workout.jpg google searched "group of people workout"  
+tricep-image.jpg google searched "triceps exercises"  
 
-youtube videos
-homepage:
-Youtube search "workout for beginners" https://youtu.be/pRlt5zCKSAs
-Benefits of workout page:
-Youtube search "weight loss workout" https://youtu.be/H3jJ29oE8Zg
-Youtube search "muscle and strength workout" https://youtu.be/ZxJlZxZ2KFw
-Youtube search "mental health benefits of workout" https://youtu.be/GNWaWJm1A1g
-Youtube search "exercise benefits for skins" https://youtu.be/pCd7QpIW4xQ
-Youtube search "exercise helps blood pressure" https://youtu.be/y_ZoCSmSnZE
-Youtube search "exercises to help prevent heart disease" https://youtu.be/oDTYl7lzqjg
-workout page:
-Youtube search "exercises for chest" https://youtu.be/lWXhih3xbVc
-Youtube search "exercises for Biceps" https://youtu.be/mqfzsbV0lUs
-Youtube search "exercises for back" https://youtu.be/s8taXR3mYa8
-Youtube search "exercises for shoulders" https://youtu.be/Vk3Q8WvUwf4
-Youtube search "exercises for legs" https://youtu.be/Nr0voKyfiiE
-Youtube search "exercises for triceps" https://youtu.be/dhGnHk_d6vc
+youtube videos  
+homepage:  
+Youtube search "workout for beginners" https://youtu.be/pRlt5zCKSAs  
+Benefits of workout page:  
+Youtube search "weight loss workout" https://youtu.be/H3jJ29oE8Zg  
+Youtube search "muscle and strength workout" https://youtu.be/ZxJlZxZ2KFw  
+Youtube search "mental health benefits of workout" https://youtu.be/GNWaWJm1A1g  
+Youtube search "exercise benefits for skins" https://youtu.be/pCd7QpIW4xQ  
+Youtube search "exercise helps blood pressure" https://youtu.be/y_ZoCSmSnZE  
+Youtube search "exercises to help prevent heart disease" https://youtu.be/oDTYl7lzqjg  
+workout page:  
+Youtube search "exercises for chest" https://youtu.be/lWXhih3xbVc  
+Youtube search "exercises for Biceps" https://youtu.be/mqfzsbV0lUs  
+Youtube search "exercises for back" https://youtu.be/s8taXR3mYa8  
+Youtube search "exercises for shoulders" https://youtu.be/Vk3Q8WvUwf4  
+Youtube search "exercises for legs" https://youtu.be/Nr0voKyfiiE  
+Youtube search "exercises for triceps" https://youtu.be/dhGnHk_d6vc  
 
 I received inspiration from this website https://iconichealthclubs.ie/gyms-dublin/
 
