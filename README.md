@@ -10,6 +10,7 @@ Workout guide for beginners.
 [Features](#features)   
 [Testing](#testing)  
 [Deployment](#deployment)  
+[Credits](#credits)  
 [Images](#images)  
 [Youtube](#youtube)      
 
@@ -17,7 +18,7 @@ Workout guide for beginners.
 
 This website is about helping people get into working out no matter what their experience is, if their beginners or advance. This website gives information on benefits of working out not externally how you will look but internally. It also gives a workout programme for beginners to stick to as long as they like which is detailed and explained through bullet points and videos descriptively. So that if someone wanted to try out the workout they would know they aren't doing a certain excerise wrong in risk of injuring their self. This website is also to boost people's confidence in order what to do. Some people may be shy or embarrased seeking face to face advice on working out and want to learn independently alone and make their own programme and change their life style their self, through this website they can seek guidance and information on how to do that.
 
-## Target-audience
+## Target-audience  
 
 This website is for younger and older adults essentially because of the information given and how easily it is structed. It could be a young adult that is seeking for information on how to workout correctly and what they need to do in order to make it happen. It also could be an older or younger adult that is looking to help improve their health to their body internally, working out prevents diseases and keeps a healthy and positive mind. There are a number of health benefits that all age groups can take advantage of when working out. Especially if a certain person is facing high blood pressure or insulin levels, their also could be overweight people seeking for advice on a weight loss workout programme or guidance. Or how working out makes them loose weight. There also can be young adults or older adults looking to tone their body with more muscle definition or increasing their body mass depending on their weight. 
 
@@ -46,10 +47,11 @@ Testing:
 ## Deployment
 
 Deployment:   
-Github pages  
-Branch master    
+Github page       
 
-## Images
+## Credits    
+
+## Images  
 
 images:  
 5-people-workout.jpg google searched "workout picture"  
@@ -66,7 +68,7 @@ shoulder-workout.jpg google searched "shoulder exercises"
 skipping-workout.jpg google searched "group of people workout"  
 tricep-image.jpg google searched "triceps exercises"  
 
-#Youtube  
+## Youtube  
 
 youtube videos    
 homepage:    
