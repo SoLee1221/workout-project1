@@ -1,4 +1,4 @@
-<a href=https://solee1221.github.io/workout-project1>Shaping up</a>
+<h1><a href=https://solee1221.github.io/workout-project1>Shaping up</a></h1>
 
 Workout guide for beginners.
 
