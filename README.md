@@ -39,7 +39,7 @@ Testing:
 • Tested both highlight for nav links and social media links to see if they work correctly when hovering over with mouse to give better user experience.  
 • Tested all youtube videos throughout the website to make sure no video links are broken or popping up with error messages.  
 • Tested all images to display correctly without any errors. 
-• Tested contact page:  
+• Tested contact page:    
 • Tried to submit form without any information and wouldn't accept the form without any data input.   
 • Tried to input only text into email section and website wouldn't accept unless its a genuine email with @.  
 • Added required fields for first name, last name and email address. (tested by trying to submit information without one of the text boxes for first name, last name and email without any information input).  
@@ -47,13 +47,8 @@ Testing:
 
 ## W3C validator  
 
-<p>
-    <a href="http://jigsaw.w3.org/css-validator/check/referer">
-        <img style="border:0;width:88px;height:31px"
-            src="http://jigsaw.w3.org/css-validator/images/vcss"
-            alt="Valid CSS!" />
-    </a>
-</p>
+• Tested W3C CSS Validator no errors found.
+• Tested W3C HTML Validator warning section lacking heading for all pages with images.
 
 ## Deployment
 
