@@ -407,3 +407,32 @@ input[type=text],
     }
 
 }
+
+@media screen and (max-width: 900px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-right: 20px;
+        margin-bottom: 10px;
+        line-height: 15px;
+        padding: 1%;
+    }
+
+    #menu li {
+        font-family: Poppins, sans-serif;
+        font-size: medium;
+        list-style-type: none;
+        margin-right: 25px;
+        float: right;
+        margin-top: 5px;
+        font-weight: bolder;
+        background-color: rgba(68, 221, 221, 0.1);
+    }
+
+    .video-width {
+        width: 80%;
+        height: 400px;
+    }
+
+
+}
