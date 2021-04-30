@@ -31,7 +31,7 @@ This website will help younger and older adults achieve their goals those goals 
 
 ## Wireframes
 
-I have designed my website through drawing diagrams with information and section to get a rough idea of how my website should look like, also what my website should include.  
+I have designed my website through drawing diagrams with information and section to get a general idea of how my website should look like, also what my website should include(images, videos, links to social and sections).  
 https://github.com/SoLee1221/workout-project1/blob/master/diagram-of-project/workout-website.pdf  
 
 ## Features
@@ -50,7 +50,7 @@ Testing:
 • Tried to submit form without any information and wouldn't accept the form without any data input.   
 • Tried to input only text into email section and website wouldn't accept unless its a genuine email with @.  
 • Added required fields for first name, last name and email address. (tested by trying to submit information without one of the text boxes for first name, last name and email without any information input).  
-• Tested if information, videos and images work correctly for 1200px and 950px.  
+• Tested screen sizes for 1200px, 950px and 900px. Made sure information such as text was showing clear, images and videos was good sizes and fit to screen. Checked if Nav links and bar was showing correctly and not being clustered together especially in 900px or less.      
 
 ## W3C validator  
 
@@ -108,7 +108,8 @@ Youtube search "exercises for shoulders" https://youtu.be/Vk3Q8WvUwf4
 Youtube search "exercises for legs" https://youtu.be/Nr0voKyfiiE  
 Youtube search "exercises for triceps" https://youtu.be/dhGnHk_d6vc  
 
-I received inspiration from this website https://iconichealthclubs.ie/gyms-dublin/
+I received inspiration from the following website:         
+https://iconichealthclubs.ie/gyms-dublin/      
 
 
 
