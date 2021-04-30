@@ -7,8 +7,8 @@ Workout guide for beginners.
 
 [Description](#description)    
 [Target-audience](#target-audience)    
-[How website helps](#how-website-helps) 
-[Wireframe](#wireframe)     
+[How website helps](#how-website-helps)   
+[Wireframe](#wireframe)       
 [Features](#features)   
 [Testing](#testing)
 [W3C validator](#w3c-validator)  
