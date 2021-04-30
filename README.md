@@ -31,7 +31,7 @@ This website will help younger and older adults achieve their goals those goals 
 ## Wireframes
 
 I have done my website design through diagrams written on paper.
-<a href="/workspace/workout-project1/diagram-of-project/workout-website.pdf>
+<a href=/workspace/workout-project1/diagram-of-project/workout-website.pdf>
 
 ## Features
 
