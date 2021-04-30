@@ -54,8 +54,8 @@ Testing:
 
 ## W3C validator  
 
-• Tested W3C CSS Validator no errors found.
-• Tested W3C HTML Validator warning section lacking heading for all pages with images.
+• Tested W3C CSS Validator no errors found.    
+• Tested W3C HTML Validator warning section lacking heading for all pages with images.  
 
 ## Deployment
 
