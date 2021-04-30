@@ -6,7 +6,8 @@ Workout guide for beginners.
 
 [Description](#description)    
 [Target-audience](#target-audience)    
-[How website helps](#how-website-helps)    
+[How website helps](#how-website-helps) 
+[Wireframe](#wireframe)     
 [Features](#features)   
 [Testing](#testing)
 [W3C validator](#w3c-validator)  
@@ -25,7 +26,12 @@ This website is for younger and older adults essentially because of the informat
 
 ## How-website-helps
 
-This website will help younger and older adults achieve their goals those goals could be weight loss, manage blood pressure, insulin levels, reduce heart disease, better mental health, skin health and muscle-strenght, all these benefits can be achieved in one go by just doing simple workouts and sticking to a programme. My project is one of the best ways to achieve this because of the basic way it is structored there is a section just for benefits of working out, which people will want to know. What is the reason they will be working out and what types of benefits they would be getting for working out. Then there is a seperate section on how to practically workout effectively with detail showing them how to execute correct workout movement for each body part with no risk to injury their self. 
+This website will help younger and older adults achieve their goals those goals could be weight loss, manage blood pressure, insulin levels, reduce heart disease, better mental health, skin health and muscle-strenght, all these benefits can be achieved in one go by just doing simple workouts and sticking to a programme. My project is one of the best ways to achieve this because of the basic way it is structored there is a section just for benefits of working out, which people will want to know. What is the reason they will be working out and what types of benefits they would be getting for working out. Then there is a seperate section on how to practically workout effectively with detail showing them how to execute correct workout movement for each body part with no risk to injury their self.  
+
+## Wireframes
+
+I have done my website design through diagrams written on paper.
+<a href="/workspace/workout-project1/diagram-of-project/workout-website.pdf>
 
 ## Features
 
@@ -38,7 +44,7 @@ Testing:
 • Tested all social media links to make sure they all open in a seperate tab with no problems or broken links.  
 • Tested both highlight for nav links and social media links to see if they work correctly when hovering over with mouse to give better user experience.  
 • Tested all youtube videos throughout the website to make sure no video links are broken or popping up with error messages.  
-• Tested all images to display correctly without any errors. 
+• Tested all images to display correctly without any errors.   
 • Tested contact page:    
 • Tried to submit form without any information and wouldn't accept the form without any data input.   
 • Tried to input only text into email section and website wouldn't accept unless its a genuine email with @.  
@@ -52,8 +58,15 @@ Testing:
 
 ## Deployment
 
-Deployment:   
-Github page       
+Deployment:     
+Github pages    
+• Click on the following link below to open my repository.  
+https://github.com/SoLee1221/workout-project1  
+• Once you have opened the following link you should see my repository.  
+• After there should be menu called "Settings" click that.  
+• Select "pages" should be on left side menu.  
+• Choose the master branch from the source drop-down.  
+• Then choose root for the folder from the other drop-down beside it on right.  
 
 ## Credits    
 
